@@ -19,4 +19,6 @@ public class Team {
     private String teamName;
 
     private String description;
+
+    private String department;
 }
